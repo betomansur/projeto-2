@@ -16,3 +16,5 @@ O relatório do nosso projeto pode ser encontrado dentro do próprio Jupyter not
 - Principal.ipynb -> Notebook
 - README.md -> Esta explicação
 - dataset.xlsx -> DataSet utilizando no notebook
+- comoVerGraficoInterativo.mov -> Video ensinando a usar o arquivo grafico.py
+- grafico.py --> gráfico interativo para a análise exploratória

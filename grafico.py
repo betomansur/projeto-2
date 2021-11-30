@@ -25,7 +25,7 @@ from IPython.display import display
 from matplotlib.widgets import CheckButtons
 
 filename = 'dataset.xlsx'
-if not filename in os.listdir()
+if not filename in os.listdir():
     print(f'Não encontrei o arquivo {filename}')
 
 dados = pd.read_excel(filename)

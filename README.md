@@ -18,3 +18,6 @@ O relatório do nosso projeto pode ser encontrado dentro do próprio Jupyter not
 - dataset.xlsx -> DataSet utilizando no notebook
 - comoVerGraficoInterativo.mov -> Video ensinando a usar o arquivo grafico.py
 - grafico.py --> gráfico interativo para a análise exploratória
+
+## Contribuição de cada um
+- Alberto: Com ajuda do time o Alberto comandou o código para fazer as técnicas de predição, ele que fez e plotou todo modelo
